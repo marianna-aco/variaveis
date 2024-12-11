@@ -1,0 +1,7 @@
+idade = 25
+altura = 1.75
+nome = "João"
+estudante = True
+
+nome = input("Por favor, insira seu nome: ")
+print(f"Olá, {nome}! Bem-vindo ao nosso programa.") 
